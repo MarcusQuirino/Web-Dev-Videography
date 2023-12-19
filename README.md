@@ -7,3 +7,5 @@ And please, open a PR submiting a video that you think is so good that is a must
 developer. Just read the [Contibution guide](./CONTRIBUTING.md) first.
 
 happy learning!
+
+click [here](./videography.md)
